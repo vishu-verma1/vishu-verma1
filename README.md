@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VISHAL</h1>
 <h3 align="center">I’m interested in web programming and software development</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/vishu-verma1/vishu-verma1/assets/85021717/9bd14d47-623f-4bf2-a76e-dfd55504ebe5
+<img align="right" alt="coding" width="400" src="![image](https://github.com/vishu-verma1/vishu-verma1/assets/85021717/2efda19a-c3b9-496e-9646-58ee565c7f44)
 ">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishu-verma1&label=Profile%20views&color=0e75b6&style=flat" alt="vishu-verma1" /> </p>
