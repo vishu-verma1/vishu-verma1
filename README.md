@@ -12,7 +12,7 @@
 
 - 💬 Ask me about => c++, js, c, web programing, DSA QNS 
 
-- 📫 How to reach me => svagproductions@gmail.com
+- 📫 How to reach me => vishal.93165095@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
