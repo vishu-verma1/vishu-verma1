@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/vishal_verma010" target="blank"><img src="https://img.shields.io/twitter/follow/vishal_verma010?logo=twitter&style=for-the-badge" alt="vishal_verma010" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about => c++, js, c, web programing, DSA QNS 
+- 💬 Ask me about => c++, js, web programing, DSA QNS 
 
 - 📫 How to reach me => vishal.93165095@gmail.com
 
